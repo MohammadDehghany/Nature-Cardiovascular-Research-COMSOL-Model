@@ -8,7 +8,7 @@ This repository contains the COMSOL Multiphysics model used to generate **Figure
 ---
 
 ## Contents
-- `model/Longitudinal Stress in Physiological Conditions.mph`  
+- `Longitudinal Stress in Physiological Conditions.mph`  
   COMSOL model file that reproduces the results in Figure 8C.  
 
 ---
