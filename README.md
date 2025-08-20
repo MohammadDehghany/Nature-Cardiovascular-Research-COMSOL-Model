@@ -13,7 +13,7 @@ This repository contains the COMSOL Multiphysics model used to generate **Figure
 ---
 
 ## Requirements
-- **COMSOL Multiphysics v6.2.0.415 or later**  
+- **COMSOL Multiphysics v6.2.0.415 or Later**  
 - Typical computation time on a standard workstation: ~19 seconds  
 
 ---
