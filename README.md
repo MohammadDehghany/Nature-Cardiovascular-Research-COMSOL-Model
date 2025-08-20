@@ -1,4 +1,4 @@
-This repository contains the COMSOL Multiphysics model used to generate **Figure 8** in our paper:
+This repository contains the COMSOL Multiphysics model used to generate **Figure 8C** in our paper:
 
 **Title:** Microtubule forces drive nuclear damage in LMNA cardiomyopathy 
 **Journal:** *Nature Cardiovascular Research* (2025)  
@@ -8,7 +8,7 @@ This repository contains the COMSOL Multiphysics model used to generate **Figure
 
 ## Contents
 - `model/Longitudinal Stress in Physiological Conditions.mph`  
-  COMSOL model file that reproduces the results in Figure 8.  
+  COMSOL model file that reproduces the results in Figure 8C.  
 
 ---
 
