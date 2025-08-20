@@ -13,7 +13,7 @@ This repository contains the COMSOL Multiphysics model used to generate **Figure
 ---
 
 ## Requirements
-- **COMSOL Multiphysics v6.2.0.415**  
+- **COMSOL Multiphysics v6.2.0.415 or later**  
 - Typical computation time on a standard workstation: ~19 seconds  
 
 ---
@@ -21,4 +21,4 @@ This repository contains the COMSOL Multiphysics model used to generate **Figure
 ## How to Run
 1. Open the file  
 2. Run the simulation
-3. The stress components can be found in the results
+3. The stress components can be found in the Results
