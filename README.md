@@ -1,6 +1,7 @@
 This repository contains the COMSOL Multiphysics model used to generate **Figure 8C** in our paper:
 
 **Title:** Microtubule forces drive nuclear damage in LMNA cardiomyopathy 
+
 **Journal:** *Nature Cardiovascular Research* (2025)  
 
 
